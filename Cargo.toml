@@ -1,0 +1,11 @@
+[package]
+authors = ["Andreas Traxler <andreas.traxler@gmail.com>"]
+edition = "2018"
+name = "rustone"
+version = "0.1.0"
+[dependencies]
+itertools = "*"
+rand = "*"
+rand_distr = "*"
+strum = "*"
+strum_macros = "*"
